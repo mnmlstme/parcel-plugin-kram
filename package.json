@@ -1,0 +1,23 @@
+{
+  "name": "parcel-plugin-kram",
+  "version": "1.0.0",
+  "description": "kram is markdown flipped",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "documentation",
+    "notebook",
+    "creative",
+    "coding"
+  ],
+  "author": "ken@mnmlst.me",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "marked": "^2.0.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
